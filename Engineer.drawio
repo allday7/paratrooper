@@ -1,1 +1,133 @@
-<mxfile host="app.diagrams.net" modified="2021-10-30T15:21:45.566Z" agent="5.0 (Windows)" version="15.6.2" etag="I-MFQF82nLvxid4nKYrd" type="github"><diagram id="NpOCoje0zSoZdeExiJcy">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-30T15:42:49.521Z" agent="5.0 (Windows)" etag="ydMQMmI13FLGS3dLQ9gv" version="15.6.2" type="github">
+  <diagram id="NpOCoje0zSoZdeExiJcy" name="Page-1">
+    <mxGraphModel dx="6634" dy="1080" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VXeyH6XUhTUTIsdPU2Il-1" value="工程单项赛" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-1130" y="30" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VXeyH6XUhTUTIsdPU2Il-2" value="中期视频要求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-880" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VXeyH6XUhTUTIsdPU2Il-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="VXeyH6XUhTUTIsdPU2Il-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1050" y="70" as="sourcePoint" />
+            <mxPoint x="-1000" y="20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VXeyH6XUhTUTIsdPU2Il-4" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="VXeyH6XUhTUTIsdPU2Il-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-820" y="160" as="sourcePoint" />
+            <mxPoint x="-730" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VXeyH6XUhTUTIsdPU2Il-5" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1100" y="160" as="sourcePoint" />
+            <mxPoint x="-90" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VXeyH6XUhTUTIsdPU2Il-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="VXeyH6XUhTUTIsdPU2Il-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1100" y="160" as="sourcePoint" />
+            <mxPoint x="-1100" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VXeyH6XUhTUTIsdPU2Il-7" value="①：完整运动" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1160" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VXeyH6XUhTUTIsdPU2Il-8" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="VXeyH6XUhTUTIsdPU2Il-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-960" y="160" as="sourcePoint" />
+            <mxPoint x="-990" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VXeyH6XUhTUTIsdPU2Il-9" value="②：抓取凹槽内的矿石" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1020" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VXeyH6XUhTUTIsdPU2Il-10" value="③：a抓取并调整矿石的朝向。b抓取落在地上的矿石。c抓取掉落过程中的矿石(至少完成一项)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-880" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VXeyH6XUhTUTIsdPU2Il-11" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="VXeyH6XUhTUTIsdPU2Il-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-790" y="260" as="sourcePoint" />
+            <mxPoint x="-820" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VXeyH6XUhTUTIsdPU2Il-13" value="成功将矿石放置于兑换点并推入" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-730" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VXeyH6XUhTUTIsdPU2Il-14" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="VXeyH6XUhTUTIsdPU2Il-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-790" y="260" as="sourcePoint" />
+            <mxPoint x="-670" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VXeyH6XUhTUTIsdPU2Il-15" value="交接弹丸" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-590" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VXeyH6XUhTUTIsdPU2Il-16" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="VXeyH6XUhTUTIsdPU2Il-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-790" y="220" as="sourcePoint" />
+            <mxPoint x="-530" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VXeyH6XUhTUTIsdPU2Il-17" value="刷卡复活" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VXeyH6XUhTUTIsdPU2Il-18" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="VXeyH6XUhTUTIsdPU2Il-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-740" y="210" as="sourcePoint" />
+            <mxPoint x="-380" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VXeyH6XUhTUTIsdPU2Il-19" value="救援" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-290.00000000000045" y="190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VXeyH6XUhTUTIsdPU2Il-20" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="VXeyH6XUhTUTIsdPU2Il-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-620" y="210" as="sourcePoint" />
+            <mxPoint x="-230" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VXeyH6XUhTUTIsdPU2Il-21" value="裁判系统安装展示" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VXeyH6XUhTUTIsdPU2Il-22" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-90" y="160" as="sourcePoint" />
+            <mxPoint x="-90" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VXeyH6XUhTUTIsdPU2Il-23" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1320" y="540" as="sourcePoint" />
+            <mxPoint x="-1320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VXeyH6XUhTUTIsdPU2Il-24" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1320" y="540" as="sourcePoint" />
+            <mxPoint x="-20" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VXeyH6XUhTUTIsdPU2Il-63" value="&lt;font style=&quot;font-size: 100px&quot;&gt;中期视频要求&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-940" y="400" width="620" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VXeyH6XUhTUTIsdPU2Il-65" value="" style="endArrow=none;html=1;rounded=0;fontSize=100;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1320" as="sourcePoint" />
+            <mxPoint x="-20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VXeyH6XUhTUTIsdPU2Il-66" value="" style="endArrow=none;html=1;rounded=0;fontSize=100;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-20" y="540" as="sourcePoint" />
+            <mxPoint x="-20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
