@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-31T03:05:13.131Z" agent="5.0 (Windows)" etag="_2TMpnTvVRuMq6Yd6wx4" version="15.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-31T09:15:02.085Z" agent="5.0 (Windows)" etag="ky6ncrqoWPUeO1KOps_u" version="15.6.2" type="github">
   <diagram id="NpOCoje0zSoZdeExiJcy" name="Page-1">
-    <mxGraphModel dx="5983" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="none" math="0" shadow="0">
+    <mxGraphModel dx="8586" dy="2160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -921,6 +921,11 @@
             <mxPoint x="-3399.9999999999995" y="2600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="x2NMziQEKjw-3D6XoXYr-277" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x2NMziQEKjw-3D6XoXYr-215" target="x2NMziQEKjw-3D6XoXYr-278">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-750" y="2170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="x2NMziQEKjw-3D6XoXYr-215" value="云台" style="rounded=0;whiteSpace=wrap;html=1;fontSize=100;" vertex="1" parent="1">
           <mxGeometry x="-2640" y="2090" width="300" height="160" as="geometry" />
         </mxCell>
@@ -994,6 +999,15 @@
         <mxCell id="x2NMziQEKjw-3D6XoXYr-249" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="x2NMziQEKjw-3D6XoXYr-240" target="x2NMziQEKjw-3D6XoXYr-248">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="x2NMziQEKjw-3D6XoXYr-263" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="x2NMziQEKjw-3D6XoXYr-240" target="x2NMziQEKjw-3D6XoXYr-262">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x2NMziQEKjw-3D6XoXYr-269" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="x2NMziQEKjw-3D6XoXYr-240" target="x2NMziQEKjw-3D6XoXYr-268">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x2NMziQEKjw-3D6XoXYr-275" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="x2NMziQEKjw-3D6XoXYr-240" target="x2NMziQEKjw-3D6XoXYr-274">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="x2NMziQEKjw-3D6XoXYr-240" value="云台模式设置" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-3470" y="2600" width="170" height="60" as="geometry" />
         </mxCell>
@@ -1012,8 +1026,117 @@
         <mxCell id="x2NMziQEKjw-3D6XoXYr-248" value="初始化模式判断是否到达中值位置" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-3650" y="2770" width="150" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="x2NMziQEKjw-3D6XoXYr-253" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="x2NMziQEKjw-3D6XoXYr-250" target="x2NMziQEKjw-3D6XoXYr-252">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x2NMziQEKjw-3D6XoXYr-255" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="x2NMziQEKjw-3D6XoXYr-250" target="x2NMziQEKjw-3D6XoXYr-254">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="x2NMziQEKjw-3D6XoXYr-250" value="判断yaw电机是否回到初始位置" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-3635" y="2910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x2NMziQEKjw-3D6XoXYr-259" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="x2NMziQEKjw-3D6XoXYr-252" target="x2NMziQEKjw-3D6XoXYr-258">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x2NMziQEKjw-3D6XoXYr-252" value="到达初始位置，停止计时" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-3830" y="3040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x2NMziQEKjw-3D6XoXYr-257" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="x2NMziQEKjw-3D6XoXYr-254" target="x2NMziQEKjw-3D6XoXYr-256">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x2NMziQEKjw-3D6XoXYr-254" value="未达到值，但为了保证车继续运行，跳出初始化" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-3420" y="3040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x2NMziQEKjw-3D6XoXYr-256" value="如果停止时间没有到达一定值，并且遥控器左通道不在下，则直接返回，不进行后面的模式选择，使模式一直停在初始化模式中" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-3220" y="2870" width="430" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="x2NMziQEKjw-3D6XoXYr-258" value="如果已经达到初始位置（即到达并稳定一段时间），则完成初始化，时间归零，退出初始化模式，进行后面的模式选择" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-4250" y="2960" width="340" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="x2NMziQEKjw-3D6XoXYr-265" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="x2NMziQEKjw-3D6XoXYr-262" target="x2NMziQEKjw-3D6XoXYr-264">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x2NMziQEKjw-3D6XoXYr-262" value="左通道在中，绝对角度控制模式" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-3280" y="2310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x2NMziQEKjw-3D6XoXYr-267" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="x2NMziQEKjw-3D6XoXYr-264" target="x2NMziQEKjw-3D6XoXYr-266">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x2NMziQEKjw-3D6XoXYr-264" value="p按断上一次是否是大陀螺模式" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-3080" y="2310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x2NMziQEKjw-3D6XoXYr-266" value="如果上一次为大陀螺模式，则用绝对角度控制，此时底盘模式为跟随云台，会进行归位" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-2880" y="2310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x2NMziQEKjw-3D6XoXYr-271" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="x2NMziQEKjw-3D6XoXYr-268" target="x2NMziQEKjw-3D6XoXYr-270">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x2NMziQEKjw-3D6XoXYr-268" value="左拨杆为上，大陀螺" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-2990" y="2600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x2NMziQEKjw-3D6XoXYr-273" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="x2NMziQEKjw-3D6XoXYr-270" target="x2NMziQEKjw-3D6XoXYr-272">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x2NMziQEKjw-3D6XoXYr-270" value="Q键大陀螺" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-3110" y="2470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x2NMziQEKjw-3D6XoXYr-272" value="如果正在大陀螺 再按一下Q键取消" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-2790" y="2460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x2NMziQEKjw-3D6XoXYr-274" value="SHIFT+E 云台旋转90度" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-3195" y="2760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x2NMziQEKjw-3D6XoXYr-280" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="x2NMziQEKjw-3D6XoXYr-278" target="x2NMziQEKjw-3D6XoXYr-279">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-620" y="1740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x2NMziQEKjw-3D6XoXYr-282" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="x2NMziQEKjw-3D6XoXYr-278" target="x2NMziQEKjw-3D6XoXYr-281">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-590" y="2170" />
+              <mxPoint x="-590" y="1830" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x2NMziQEKjw-3D6XoXYr-284" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="x2NMziQEKjw-3D6XoXYr-278" target="x2NMziQEKjw-3D6XoXYr-283">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-680" y="1950" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x2NMziQEKjw-3D6XoXYr-286" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="x2NMziQEKjw-3D6XoXYr-278" target="x2NMziQEKjw-3D6XoXYr-285">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x2NMziQEKjw-3D6XoXYr-288" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="x2NMziQEKjw-3D6XoXYr-278" target="x2NMziQEKjw-3D6XoXYr-287">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x2NMziQEKjw-3D6XoXYr-290" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="x2NMziQEKjw-3D6XoXYr-278" target="x2NMziQEKjw-3D6XoXYr-289">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x2NMziQEKjw-3D6XoXYr-278" value="云台状态切换保存" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-740" y="2140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x2NMziQEKjw-3D6XoXYr-279" value="最后一次不是初始化，此次是初始化" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="1710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x2NMziQEKjw-3D6XoXYr-281" value="最后一次不是锁住，此次是锁住" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="1800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x2NMziQEKjw-3D6XoXYr-283" value="最后一次不是而这次是云台陀螺仪绝对角度控制" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="1910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x2NMziQEKjw-3D6XoXYr-285" value="最后一次不为而这次云台电机编码值相对角度控制" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="2020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x2NMziQEKjw-3D6XoXYr-287" value="最后一次不为而这次为小陀螺" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="2180" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="x2NMziQEKjw-3D6XoXYr-289" value="在锁模式下，相对角度过渡" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="2300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
