@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-31T02:55:12.406Z" agent="5.0 (Windows)" etag="yGVeunkoVe_vOilFN2cs" version="15.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-31T03:05:13.131Z" agent="5.0 (Windows)" etag="_2TMpnTvVRuMq6Yd6wx4" version="15.6.2" type="github">
   <diagram id="NpOCoje0zSoZdeExiJcy" name="Page-1">
-    <mxGraphModel dx="7284" dy="1440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="none" math="0" shadow="0">
+    <mxGraphModel dx="5983" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -980,8 +980,40 @@
         <mxCell id="x2NMziQEKjw-3D6XoXYr-236" value="更新数据" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-4265" y="2280" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="x2NMziQEKjw-3D6XoXYr-242" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="x2NMziQEKjw-3D6XoXYr-240" target="x2NMziQEKjw-3D6XoXYr-241">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x2NMziQEKjw-3D6XoXYr-244" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="x2NMziQEKjw-3D6XoXYr-240" target="x2NMziQEKjw-3D6XoXYr-243">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x2NMziQEKjw-3D6XoXYr-246" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="x2NMziQEKjw-3D6XoXYr-240">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-3779.9999999999995" y="2760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x2NMziQEKjw-3D6XoXYr-249" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="x2NMziQEKjw-3D6XoXYr-240" target="x2NMziQEKjw-3D6XoXYr-248">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="x2NMziQEKjw-3D6XoXYr-240" value="云台模式设置" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-3470" y="2600" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x2NMziQEKjw-3D6XoXYr-241" value="初始化为无力模式" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-4340" y="2600" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x2NMziQEKjw-3D6XoXYr-243" value="QE长按电磁锁升降电机初始化，优先级第二" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-4150" y="2770" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x2NMziQEKjw-3D6XoXYr-247" value="左通道在下，无力模式" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-3840" y="2760" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x2NMziQEKjw-3D6XoXYr-251" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="x2NMziQEKjw-3D6XoXYr-248" target="x2NMziQEKjw-3D6XoXYr-250">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x2NMziQEKjw-3D6XoXYr-248" value="初始化模式判断是否到达中值位置" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-3650" y="2770" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x2NMziQEKjw-3D6XoXYr-250" value="判断yaw电机是否回到初始位置" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-3635" y="2910" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
