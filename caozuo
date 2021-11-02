@@ -1,131 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2021-11-02T10:05:34.838Z" agent="5.0 (Windows)" etag="bMfeWc1_LkXy4sDnl4QW" version="15.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-02T12:20:46.718Z" agent="5.0 (Windows)" etag="6VoPUe5vNycQ0z3PoQjj" version="15.6.5" type="github">
   <diagram id="o3Zjs7DVJS2aJDM4wP3Z" name="Page-1">
-    <mxGraphModel dx="7805" dy="1728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="9888" dy="2880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="SIsnodNk78bmPlHGAzTu-1" value="&lt;font style=&quot;font-size: 20px&quot;&gt;工程单项赛&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-1150" y="10" width="100" height="100" as="geometry" />
+        <mxCell id="SIsnodNk78bmPlHGAzTu-7" value="&lt;font style=&quot;font-size: 20px&quot;&gt;①：完整运动&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-3430" y="40" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SIsnodNk78bmPlHGAzTu-2" value="&lt;font style=&quot;font-size: 20px&quot;&gt;中期视频要求&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-880" y="25" width="160" height="70" as="geometry" />
+        <mxCell id="SIsnodNk78bmPlHGAzTu-9" value="&lt;font style=&quot;font-size: 20px&quot;&gt;②：抓取凹槽内的矿石&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-3430" y="230" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SIsnodNk78bmPlHGAzTu-3" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SIsnodNk78bmPlHGAzTu-1" target="SIsnodNk78bmPlHGAzTu-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1050" y="70" as="sourcePoint" />
-            <mxPoint x="-890" y="60" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-10" value="&lt;font style=&quot;font-size: 20px&quot;&gt;③：a抓取并调整矿石的朝向。b抓取落在地上的矿石。c抓取掉落过程中的矿石(至少完成一项)&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-3460" y="350" width="220" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="SIsnodNk78bmPlHGAzTu-4" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="SIsnodNk78bmPlHGAzTu-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-800" y="160" as="sourcePoint" />
-            <mxPoint x="-730" y="210" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-12" value="&lt;font style=&quot;font-size: 20px&quot;&gt;成功将矿石放置于兑换点并推入&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-3180" y="40" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SIsnodNk78bmPlHGAzTu-5" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1100" y="160" as="sourcePoint" />
-            <mxPoint x="-90" y="160" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-14" value="&lt;font style=&quot;font-size: 20px&quot;&gt;交接弹丸&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-3020" y="230" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SIsnodNk78bmPlHGAzTu-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="SIsnodNk78bmPlHGAzTu-7">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1100" y="160" as="sourcePoint" />
-            <mxPoint x="-1100" y="160" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-16" value="&lt;font style=&quot;font-size: 20px&quot;&gt;刷卡复活&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-2830" y="355" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SIsnodNk78bmPlHGAzTu-7" value="&lt;font style=&quot;font-size: 20px&quot;&gt;①：完整运动&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1310" y="260" width="120" height="80" as="geometry" />
+        <mxCell id="SIsnodNk78bmPlHGAzTu-18" value="&lt;font style=&quot;font-size: 20px&quot;&gt;救援&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-2630.0000000000005" y="485" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SIsnodNk78bmPlHGAzTu-8" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="SIsnodNk78bmPlHGAzTu-9">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-980" y="160" as="sourcePoint" />
-            <mxPoint x="-990" y="160" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-20" value="&lt;font style=&quot;font-size: 20px&quot;&gt;裁判系统安装展示&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-2710" y="140" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SIsnodNk78bmPlHGAzTu-9" value="&lt;font style=&quot;font-size: 20px&quot;&gt;②：抓取凹槽内的矿石&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1130" y="350" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="SIsnodNk78bmPlHGAzTu-10" value="&lt;font style=&quot;font-size: 20px&quot;&gt;③：a抓取并调整矿石的朝向。b抓取落在地上的矿石。c抓取掉落过程中的矿石(至少完成一项)&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-950" y="240" width="220" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="SIsnodNk78bmPlHGAzTu-11" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="SIsnodNk78bmPlHGAzTu-10">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-790" y="260" as="sourcePoint" />
-            <mxPoint x="-820" y="160" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SIsnodNk78bmPlHGAzTu-12" value="&lt;font style=&quot;font-size: 20px&quot;&gt;成功将矿石放置于兑换点并推入&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-700" y="320" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="SIsnodNk78bmPlHGAzTu-13" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="SIsnodNk78bmPlHGAzTu-12">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-790" y="260" as="sourcePoint" />
-            <mxPoint x="-670" y="160" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SIsnodNk78bmPlHGAzTu-14" value="&lt;font style=&quot;font-size: 20px&quot;&gt;交接弹丸&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-560" y="320" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="SIsnodNk78bmPlHGAzTu-15" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="SIsnodNk78bmPlHGAzTu-14">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-790" y="220" as="sourcePoint" />
-            <mxPoint x="-530" y="160" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SIsnodNk78bmPlHGAzTu-16" value="&lt;font style=&quot;font-size: 20px&quot;&gt;刷卡复活&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-410" y="320" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="SIsnodNk78bmPlHGAzTu-17" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="SIsnodNk78bmPlHGAzTu-16">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-740" y="210" as="sourcePoint" />
-            <mxPoint x="-380" y="160" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SIsnodNk78bmPlHGAzTu-18" value="&lt;font style=&quot;font-size: 20px&quot;&gt;救援&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-260.00000000000045" y="320" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="SIsnodNk78bmPlHGAzTu-19" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="SIsnodNk78bmPlHGAzTu-18">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-620" y="210" as="sourcePoint" />
-            <mxPoint x="-230" y="160" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SIsnodNk78bmPlHGAzTu-20" value="&lt;font style=&quot;font-size: 20px&quot;&gt;裁判系统安装展示&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-180" y="445" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="SIsnodNk78bmPlHGAzTu-21" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1320" y="540" as="sourcePoint" />
-            <mxPoint x="-1320" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SIsnodNk78bmPlHGAzTu-22" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1320" y="540" as="sourcePoint" />
-            <mxPoint x="-20" y="540" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SIsnodNk78bmPlHGAzTu-23" value="&lt;font style=&quot;font-size: 100px&quot;&gt;中期视频要求&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-920" y="460" width="620" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="SIsnodNk78bmPlHGAzTu-24" value="" style="endArrow=none;html=1;rounded=0;fontSize=100;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1320" as="sourcePoint" />
-            <mxPoint x="-20" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SIsnodNk78bmPlHGAzTu-25" value="" style="endArrow=none;html=1;rounded=0;fontSize=100;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-20" y="540" as="sourcePoint" />
-            <mxPoint x="-20" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SIsnodNk78bmPlHGAzTu-26" value="" style="endArrow=none;html=1;rounded=0;fontSize=50;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="SIsnodNk78bmPlHGAzTu-20">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-950" y="430" as="sourcePoint" />
-            <mxPoint x="-90" y="160" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-23" value="&lt;font style=&quot;font-size: 100px&quot;&gt;中期视频要求&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=default;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-3300" y="590" width="620" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SIsnodNk78bmPlHGAzTu-27" value="裁判系统" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=100;" vertex="1" parent="1">
           <mxGeometry x="-4670" y="5" width="420" height="130" as="geometry" />
@@ -275,7 +179,7 @@
         </mxCell>
         <mxCell id="SIsnodNk78bmPlHGAzTu-145" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;fontColor=default;strokeColor=default;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2470" y="670" as="sourcePoint" />
+            <mxPoint x="-2470" y="730" as="sourcePoint" />
             <mxPoint x="-2470" y="2130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -816,8 +720,508 @@
         </mxCell>
         <mxCell id="SIsnodNk78bmPlHGAzTu-275" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2470" y="675" as="sourcePoint" />
-            <mxPoint x="-3480" y="675" as="targetPoint" />
+            <mxPoint x="-2470" y="730" as="sourcePoint" />
+            <mxPoint x="-3490" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-278" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2470" y="730" as="sourcePoint" />
+            <mxPoint x="-2470" y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-286" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="1" source="SIsnodNk78bmPlHGAzTu-279" target="SIsnodNk78bmPlHGAzTu-285">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-279" value="W" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=30;fontColor=default;strokeColor=default;fillColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-3250" y="2470" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-300" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="1" source="SIsnodNk78bmPlHGAzTu-280" target="SIsnodNk78bmPlHGAzTu-299">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-280" value="Q" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=30;fontColor=default;strokeColor=default;fillColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-3750" y="2470" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-302" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="1" source="SIsnodNk78bmPlHGAzTu-281" target="SIsnodNk78bmPlHGAzTu-301">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-281" value="E" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=30;fontColor=default;strokeColor=default;fillColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-2790" y="2470" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-290" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="1" source="SIsnodNk78bmPlHGAzTu-282" target="SIsnodNk78bmPlHGAzTu-289">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-282" value="A" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=30;fontColor=default;strokeColor=default;fillColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-3650" y="2630" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-288" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="1" source="SIsnodNk78bmPlHGAzTu-283" target="SIsnodNk78bmPlHGAzTu-287">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-283" value="S" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=30;fontColor=default;strokeColor=default;fillColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-3168" y="2640" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-292" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="1" source="SIsnodNk78bmPlHGAzTu-284" target="SIsnodNk78bmPlHGAzTu-291">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-284" value="D" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=30;fontColor=default;strokeColor=default;fillColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-2690" y="2640" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-285" value="前移动" style="ellipse;whiteSpace=wrap;html=1;fontSize=30;fillColor=default;strokeColor=default;labelBackgroundColor=default;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-3270" y="2240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-287" value="后移动" style="ellipse;whiteSpace=wrap;html=1;fontSize=30;fillColor=default;strokeColor=default;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-3190" y="2790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-289" value="左平移" style="ellipse;whiteSpace=wrap;html=1;fontSize=30;fillColor=default;strokeColor=default;labelBackgroundColor=default;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-3670" y="2780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-291" value="右平移" style="ellipse;whiteSpace=wrap;html=1;fontSize=30;fillColor=default;strokeColor=default;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-2710" y="2790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-295" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="1" source="SIsnodNk78bmPlHGAzTu-293" target="SIsnodNk78bmPlHGAzTu-294">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-293" value="X" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=30;fontColor=default;strokeColor=default;fillColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-3080" y="2880" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-294" value="大资源岛金块拾取&amp;nbsp; （取两个，不抬升，夹取伸出） &lt;br&gt;*&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 鼠标左键进入下一步，可手动控制，遥控器左通道在下为抬升，在中为抓手旋转 &lt;br&gt;*&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 若没有取到，按下X键重新抓取，如没有金矿，按下鼠标右键结束拾取 " style="ellipse;whiteSpace=wrap;html=1;fontSize=30;fillColor=default;strokeColor=default;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-3110" y="3115" width="700" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-298" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="1" source="SIsnodNk78bmPlHGAzTu-296" target="SIsnodNk78bmPlHGAzTu-297">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-296" value="shift" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;fontColor=default;strokeColor=default;fillColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-4010" y="2640" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-297" value="底盘降速" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontSize=30;fillColor=default;strokeColor=default;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-3997.5" y="2880" width="125" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-299" value="陀螺，再次按下结束" style="ellipse;whiteSpace=wrap;html=1;fontSize=30;fillColor=default;strokeColor=default;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-3800" y="2240" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-301" value="打开电磁锁，电磁锁上升，云台归正（相对角度归零）" style="ellipse;whiteSpace=wrap;html=1;fontSize=30;fillColor=default;strokeColor=default;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-2925" y="2240" width="350" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-308" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="1" source="SIsnodNk78bmPlHGAzTu-305" target="SIsnodNk78bmPlHGAzTu-307">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-305" value="EQ" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-4270" y="2470" width="75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-307" value="电磁锁初始化，无力模式也可进行" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontSize=30;labelBackgroundColor=default;fillColor=default;strokeColor=default;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-4423.75" y="2240" width="382.5" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-311" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="1" source="SIsnodNk78bmPlHGAzTu-309" target="SIsnodNk78bmPlHGAzTu-310">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-309" value="SHIFT+E" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-4292.5" y="2800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-310" value="云台旋转90度（详见最后的说明）" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontSize=30;labelBackgroundColor=default;fillColor=default;strokeColor=default;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-4383.75" y="2580" width="302.5" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-314" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="1" source="SIsnodNk78bmPlHGAzTu-312" target="SIsnodNk78bmPlHGAzTu-313">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-312" value="R" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-2400" y="2480" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-316" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="1" source="SIsnodNk78bmPlHGAzTu-313" target="SIsnodNk78bmPlHGAzTu-315">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-313" value="更改图传位置" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontSize=30;labelBackgroundColor=default;fillColor=default;strokeColor=default;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-2415" y="2230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-315" value="中间（正常位置、大资源岛）&lt;br&gt;*&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 下&amp;nbsp; （救援和除障）&lt;br&gt;*&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 下下（看显示屏、小资源岛、大资源岛、兑换）&lt;br&gt;*&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 上&amp;nbsp; （兑换） " style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontSize=30;labelBackgroundColor=default;fillColor=default;strokeColor=default;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-2200" y="2185" width="765" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-319" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="1" source="SIsnodNk78bmPlHGAzTu-317" target="SIsnodNk78bmPlHGAzTu-318">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-317" value="F" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-2280" y="2640" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-318" value="刷卡救援" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontSize=30;labelBackgroundColor=default;fillColor=default;strokeColor=default;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-2302.5" y="2780" width="135" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-322" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="1" source="SIsnodNk78bmPlHGAzTu-320" target="SIsnodNk78bmPlHGAzTu-321">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-320" value="G" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-1860" y="2640" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-321" value="恢复到初始位置，包括电机，气缸，舵机" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontSize=30;labelBackgroundColor=default;fillColor=default;strokeColor=default;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-1972.5" y="2800" width="315" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-325" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="1" source="SIsnodNk78bmPlHGAzTu-323" target="SIsnodNk78bmPlHGAzTu-324">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-323" value="z" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-3490" y="2880" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-324" value="小资源岛金块拾取&amp;nbsp; （取三个，抬升200，夹取不伸出）&lt;br&gt;*&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 鼠标左键进入下一步，可手动控制，遥控器左通道在下为抬升，在中为抓手旋转若没有取到，按下Z键重新抓取 " style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontSize=30;labelBackgroundColor=default;fillColor=default;strokeColor=default;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-3745" y="3040" width="590" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-328" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="1" source="SIsnodNk78bmPlHGAzTu-326" target="SIsnodNk78bmPlHGAzTu-327">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-326" value="鼠标X轴" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-4292.5" y="3090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-327" value="左右旋转 " style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontSize=30;labelBackgroundColor=default;fillColor=default;strokeColor=default;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-4313.75" y="2950" width="162.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-331" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="1" source="SIsnodNk78bmPlHGAzTu-329" target="SIsnodNk78bmPlHGAzTu-330">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-329" value="C" style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-2560" y="2875" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-330" value="兑换模式&lt;br&gt;*&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 鼠标左键进入下一步，右键抓手气缸伸缩，可手动控制，遥控器左通道在下为抬升，在中为抓手旋转&lt;br&gt;*&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 按下Z，金块数量设为2个；按下Z，金块数量设为3个；按下C重新取存的金矿" style="ellipse;whiteSpace=wrap;html=1;fontSize=30;labelBackgroundColor=default;fillColor=default;strokeColor=default;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-2387.5" y="3105" width="617.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-334" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="1" source="SIsnodNk78bmPlHGAzTu-332" target="SIsnodNk78bmPlHGAzTu-333">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-332" value="v" style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-2030" y="2880" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-333" value="补给模式&lt;br&gt;*&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 第一次按进入选择，鼠标左键右键各控制一个弹舱" style="ellipse;whiteSpace=wrap;html=1;fontSize=30;labelBackgroundColor=default;fillColor=default;strokeColor=default;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-1670" y="3120" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-337" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="1" source="SIsnodNk78bmPlHGAzTu-335" target="SIsnodNk78bmPlHGAzTu-336">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-335" value="B" style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-1340" y="2880" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-336" value="气缸除障" style="ellipse;whiteSpace=wrap;html=1;fontSize=30;labelBackgroundColor=default;fillColor=default;strokeColor=default;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-1190" y="3115" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-341" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="1" source="SIsnodNk78bmPlHGAzTu-339" target="SIsnodNk78bmPlHGAzTu-340">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-339" value="ctrl" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-4010" y="2955" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-340" value="停止模式&#xa;*&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 停止工程四个电机的转动" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontSize=30;labelBackgroundColor=default;fillColor=default;strokeColor=default;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-4070" y="3140" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-344" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="1" source="SIsnodNk78bmPlHGAzTu-342" target="SIsnodNk78bmPlHGAzTu-343">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-342" value="B键常按" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-1040" y="2440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-343" value="初始化&lt;br&gt;*&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 所有电机反转，找到限位位置，归零&lt;br&gt;*&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 注：如果初始化哪里卡住，按下鼠标左键跳过此步骤，防止机械原因（例如联轴器）导致一致停在初始化里&amp;nbsp; " style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontSize=30;labelBackgroundColor=default;fillColor=default;strokeColor=default;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-1480" y="2645" width="1000" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-347" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="1" source="SIsnodNk78bmPlHGAzTu-345" target="SIsnodNk78bmPlHGAzTu-346">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-345" value="ctrl常按" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-295" y="2440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-346" value="遥控器左通道在中为抬升，在中为抓手旋转，上为金块抬升，鼠标左键抓手松开夹紧，右键抓手气缸伸缩，" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontSize=30;labelBackgroundColor=default;fillColor=default;strokeColor=default;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="2620" width="390" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-351" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="1" source="SIsnodNk78bmPlHGAzTu-349" target="SIsnodNk78bmPlHGAzTu-350">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-349" value="鼠标右键常按" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-600" y="2850" width="240" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-350" value="系统复位" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontSize=30;labelBackgroundColor=default;fillColor=default;strokeColor=default;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-545" y="3047.5" width="130" height="72.5" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-352" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2470" y="2130" as="sourcePoint" />
+            <mxPoint x="-40" y="2130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-353" value="遥控器右通道：&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 上：无力模式&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 中：正常模式&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 下：大陀螺&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-700" y="2145" width="290" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-354" value="&#xa;遥控器左通道：&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 不同模式下用途不同&#xa;&#xa;" style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-1130" y="2155" width="250" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-421" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-2370" y="20" width="2250" height="1740.000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-422" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;" vertex="1" parent="SIsnodNk78bmPlHGAzTu-421">
+          <mxGeometry width="2250" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-423" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;" vertex="1" parent="SIsnodNk78bmPlHGAzTu-422">
+          <mxGeometry width="240" height="130" as="geometry">
+            <mxRectangle width="240" height="130" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-424" value="CHASSIS_ZERO_FORCE" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;" vertex="1" parent="SIsnodNk78bmPlHGAzTu-422">
+          <mxGeometry x="240" width="560" height="130" as="geometry">
+            <mxRectangle width="560" height="130" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-425" value="无力模式：无需解释&amp;nbsp;&amp;nbsp;&amp;nbsp; " style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;" vertex="1" parent="SIsnodNk78bmPlHGAzTu-422">
+          <mxGeometry x="800" width="1450" height="130" as="geometry">
+            <mxRectangle width="1450" height="130" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-426" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;" vertex="1" parent="SIsnodNk78bmPlHGAzTu-421">
+          <mxGeometry y="130" width="2250" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-427" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;" vertex="1" parent="SIsnodNk78bmPlHGAzTu-426">
+          <mxGeometry width="240" height="112" as="geometry">
+            <mxRectangle width="240" height="112" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-428" value="CHASSIS_NO_MOVE" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;" vertex="1" parent="SIsnodNk78bmPlHGAzTu-426">
+          <mxGeometry x="240" width="560" height="112" as="geometry">
+            <mxRectangle width="560" height="112" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-429" value="不动模式：无需解释" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;" vertex="1" parent="SIsnodNk78bmPlHGAzTu-426">
+          <mxGeometry x="800" width="1450" height="112" as="geometry">
+            <mxRectangle width="1450" height="112" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-430" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;" vertex="1" parent="SIsnodNk78bmPlHGAzTu-421">
+          <mxGeometry y="242" width="2250" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-431" value="底盘" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;" vertex="1" parent="SIsnodNk78bmPlHGAzTu-430">
+          <mxGeometry width="240" height="98" as="geometry">
+            <mxRectangle width="240" height="98" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-432" value="CHASSIS_NO_FOLLOW_YAW" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;" vertex="1" parent="SIsnodNk78bmPlHGAzTu-430">
+          <mxGeometry x="240" width="560" height="98" as="geometry">
+            <mxRectangle width="560" height="98" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-433" value="不跟随云台：正常状态为不跟随云台" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;" vertex="1" parent="SIsnodNk78bmPlHGAzTu-430">
+          <mxGeometry x="800" width="1450" height="98" as="geometry">
+            <mxRectangle width="1450" height="98" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-434" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;" vertex="1" parent="SIsnodNk78bmPlHGAzTu-421">
+          <mxGeometry y="340" width="2250" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-435" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;" vertex="1" parent="SIsnodNk78bmPlHGAzTu-434">
+          <mxGeometry width="240" height="112" as="geometry">
+            <mxRectangle width="240" height="112" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-436" value="CHASSIS_SPIN" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;" vertex="1" parent="SIsnodNk78bmPlHGAzTu-434">
+          <mxGeometry x="240" width="560" height="112" as="geometry">
+            <mxRectangle width="560" height="112" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-437" value="大陀螺：无需解释" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;" vertex="1" parent="SIsnodNk78bmPlHGAzTu-434">
+          <mxGeometry x="800" width="1450" height="112" as="geometry">
+            <mxRectangle width="1450" height="112" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-438" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;" vertex="1" parent="SIsnodNk78bmPlHGAzTu-421">
+          <mxGeometry y="452" width="2250" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-439" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;" vertex="1" parent="SIsnodNk78bmPlHGAzTu-438">
+          <mxGeometry width="240" height="112" as="geometry">
+            <mxRectangle width="240" height="112" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-440" value="CHASSIS_INFANTRY_FOLLOW_GIMBAL_YAW" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;" vertex="1" parent="SIsnodNk78bmPlHGAzTu-438">
+          <mxGeometry x="240" width="560" height="112" as="geometry">
+            <mxRectangle width="560" height="112" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-441" value="跟随云台：只有在大陀螺结束时使用几秒钟" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;" vertex="1" parent="SIsnodNk78bmPlHGAzTu-438">
+          <mxGeometry x="800" width="1450" height="112" as="geometry">
+            <mxRectangle width="1450" height="112" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-442" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;" vertex="1" parent="SIsnodNk78bmPlHGAzTu-421">
+          <mxGeometry y="564" width="2250" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-443" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;" vertex="1" parent="SIsnodNk78bmPlHGAzTu-442">
+          <mxGeometry width="240" height="112" as="geometry">
+            <mxRectangle width="240" height="112" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-444" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;" vertex="1" parent="SIsnodNk78bmPlHGAzTu-442">
+          <mxGeometry x="240" width="560" height="112" as="geometry">
+            <mxRectangle width="560" height="112" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-445" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;" vertex="1" parent="SIsnodNk78bmPlHGAzTu-442">
+          <mxGeometry x="800" width="1450" height="112" as="geometry">
+            <mxRectangle width="1450" height="112" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-446" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;" vertex="1" parent="SIsnodNk78bmPlHGAzTu-421">
+          <mxGeometry y="676" width="2250" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-447" value="底盘子模式" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;" vertex="1" parent="SIsnodNk78bmPlHGAzTu-446">
+          <mxGeometry width="240" height="112" as="geometry">
+            <mxRectangle width="240" height="112" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-448" value="CHASSIS_SUB_NORMAL" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;" vertex="1" parent="SIsnodNk78bmPlHGAzTu-446">
+          <mxGeometry x="240" width="560" height="112" as="geometry">
+            <mxRectangle width="560" height="112" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-449" value="正常模式：无需解释" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;" vertex="1" parent="SIsnodNk78bmPlHGAzTu-446">
+          <mxGeometry x="800" width="1450" height="112" as="geometry">
+            <mxRectangle width="1450" height="112" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-450" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;" vertex="1" parent="SIsnodNk78bmPlHGAzTu-421">
+          <mxGeometry y="788" width="2250" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-451" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;" vertex="1" parent="SIsnodNk78bmPlHGAzTu-450">
+          <mxGeometry width="240" height="112" as="geometry">
+            <mxRectangle width="240" height="112" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-452" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;" vertex="1" parent="SIsnodNk78bmPlHGAzTu-450">
+          <mxGeometry x="240" width="560" height="112" as="geometry">
+            <mxRectangle width="560" height="112" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-453" value="慢速模式：工程某些任务下需要对准位置，底盘速度降低；过盲道时防止翻车，速度降低" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;" vertex="1" parent="SIsnodNk78bmPlHGAzTu-450">
+          <mxGeometry x="800" width="1450" height="112" as="geometry">
+            <mxRectangle width="1450" height="112" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-454" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;" vertex="1" parent="SIsnodNk78bmPlHGAzTu-421">
+          <mxGeometry y="900" width="2250" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-455" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;" vertex="1" parent="SIsnodNk78bmPlHGAzTu-454">
+          <mxGeometry width="240" height="140" as="geometry">
+            <mxRectangle width="240" height="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-456" value="GIMBAL_ZERO_FORCE " style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;" vertex="1" parent="SIsnodNk78bmPlHGAzTu-454">
+          <mxGeometry x="240" width="560" height="140" as="geometry">
+            <mxRectangle width="560" height="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-457" value="无力模式：检测相对角度，在一定范围内开启电磁锁，云台所有电机无力，但是电磁锁升降电机可以进行初始化，初&#xa;始化完毕保持无力" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;" vertex="1" parent="SIsnodNk78bmPlHGAzTu-454">
+          <mxGeometry x="800" width="1450" height="140" as="geometry">
+            <mxRectangle width="1450" height="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-458" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;" vertex="1" parent="SIsnodNk78bmPlHGAzTu-421">
+          <mxGeometry y="1040" width="2250" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-459" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;" vertex="1" parent="SIsnodNk78bmPlHGAzTu-458">
+          <mxGeometry width="240" height="140" as="geometry">
+            <mxRectangle width="240" height="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-460" value="GIMBAL_INIT" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;" vertex="1" parent="SIsnodNk78bmPlHGAzTu-458">
+          <mxGeometry x="240" width="560" height="140" as="geometry">
+            <mxRectangle width="560" height="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-461" value="初始化模式：电磁锁关闭，电磁锁升起" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;" vertex="1" parent="SIsnodNk78bmPlHGAzTu-458">
+          <mxGeometry x="800" width="1450" height="140" as="geometry">
+            <mxRectangle width="1450" height="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-462" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;" vertex="1" parent="SIsnodNk78bmPlHGAzTu-421">
+          <mxGeometry y="1180" width="2250" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-463" value="云台" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;" vertex="1" parent="SIsnodNk78bmPlHGAzTu-462">
+          <mxGeometry width="240" height="112" as="geometry">
+            <mxRectangle width="240" height="112" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-464" value="GIMBAL_LOCK" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;" vertex="1" parent="SIsnodNk78bmPlHGAzTu-462">
+          <mxGeometry x="240" width="560" height="112" as="geometry">
+            <mxRectangle width="560" height="112" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-465" value="云台锁模式：检测相对角度，在一定范围内开启电磁锁，电磁锁降到最低位置。若是没有归位电磁锁关闭并升起，按&#xa;E键云台摆正" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;" vertex="1" parent="SIsnodNk78bmPlHGAzTu-462">
+          <mxGeometry x="800" width="1450" height="112" as="geometry">
+            <mxRectangle width="1450" height="112" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-466" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;" vertex="1" parent="SIsnodNk78bmPlHGAzTu-421">
+          <mxGeometry y="1292" width="2250" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-467" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;" vertex="1" parent="SIsnodNk78bmPlHGAzTu-466">
+          <mxGeometry width="240" height="112" as="geometry">
+            <mxRectangle width="240" height="112" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-468" value="GIMBAL_SPIN" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;" vertex="1" parent="SIsnodNk78bmPlHGAzTu-466">
+          <mxGeometry x="240" width="560" height="112" as="geometry">
+            <mxRectangle width="560" height="112" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-469" value="大陀螺模式：无需解释" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;" vertex="1" parent="SIsnodNk78bmPlHGAzTu-466">
+          <mxGeometry x="800" width="1450" height="112" as="geometry">
+            <mxRectangle width="1450" height="112" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-470" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;" vertex="1" parent="SIsnodNk78bmPlHGAzTu-421">
+          <mxGeometry y="1404" width="2250" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-471" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;" vertex="1" parent="SIsnodNk78bmPlHGAzTu-470">
+          <mxGeometry width="240" height="112" as="geometry">
+            <mxRectangle width="240" height="112" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-472" value="GIMBAL_ABSOLUTE_ANGLE" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;" vertex="1" parent="SIsnodNk78bmPlHGAzTu-470">
+          <mxGeometry x="240" width="560" height="112" as="geometry">
+            <mxRectangle width="560" height="112" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-473" value="绝对角度：无需解释" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;" vertex="1" parent="SIsnodNk78bmPlHGAzTu-470">
+          <mxGeometry x="800" width="1450" height="112" as="geometry">
+            <mxRectangle width="1450" height="112" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-474" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;" vertex="1" parent="SIsnodNk78bmPlHGAzTu-421">
+          <mxGeometry y="1516" width="2250" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-475" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;" vertex="1" parent="SIsnodNk78bmPlHGAzTu-474">
+          <mxGeometry width="240" height="112" as="geometry">
+            <mxRectangle width="240" height="112" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-476" value="GIMBAL_RELATIVE_ANGLE" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;" vertex="1" parent="SIsnodNk78bmPlHGAzTu-474">
+          <mxGeometry x="240" width="560" height="112" as="geometry">
+            <mxRectangle width="560" height="112" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-477" value="相对角度：无需解释" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;" vertex="1" parent="SIsnodNk78bmPlHGAzTu-474">
+          <mxGeometry x="800" width="1450" height="112" as="geometry">
+            <mxRectangle width="1450" height="112" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-478" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;" vertex="1" parent="SIsnodNk78bmPlHGAzTu-421">
+          <mxGeometry y="1628" width="2250" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-479" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;" vertex="1" parent="SIsnodNk78bmPlHGAzTu-478">
+          <mxGeometry width="240" height="112" as="geometry">
+            <mxRectangle width="240" height="112" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-480" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;" vertex="1" parent="SIsnodNk78bmPlHGAzTu-478">
+          <mxGeometry x="240" width="560" height="112" as="geometry">
+            <mxRectangle width="560" height="112" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-481" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;" vertex="1" parent="SIsnodNk78bmPlHGAzTu-478">
+          <mxGeometry x="800" width="1450" height="112" as="geometry">
+            <mxRectangle width="1450" height="112" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SIsnodNk78bmPlHGAzTu-482" value="CHASSIS_SUB_SLOW" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=default;fontSize=30;fontColor=default;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-2110" y="1198" width="560" height="112" as="geometry">
+            <mxRectangle width="560" height="112" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
       </root>
